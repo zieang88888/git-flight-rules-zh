@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" font-family="Noto Sans CJK SC, sans-serif">
+  <rect width="960" height="300" fill="#FAF6EF"/>
+  <text x="480" y="48" text-anchor="middle" font-size="24" font-weight="700" fill="#1F1B16">数据一览</text>
+  <rect x="24" y="72" width="216" height="190" rx="10" fill="#FFFFFF" stroke="#B23A2E" stroke-width="1.5"/>
+  <text x="132" y="112" text-anchor="middle" font-size="16" fill="#1F1B16">源项目 Star</text>
+  <text x="132" y="178" text-anchor="middle" font-size="46" font-weight="700" fill="#B23A2E">42,591</text>
+  <text x="132" y="216" text-anchor="middle" font-size="13" fill="#1F1B16">k88hudson/git-flight-rules</text>
+  <rect x="256" y="72" width="216" height="190" rx="10" fill="#FFFFFF" stroke="#B23A2E" stroke-width="1.5"/>
+  <text x="364" y="112" text-anchor="middle" font-size="16" fill="#1F1B16">章节数</text>
+  <text x="364" y="178" text-anchor="middle" font-size="52" font-weight="700" fill="#B23A2E">19</text>
+  <text x="364" y="216" text-anchor="middle" font-size="13" fill="#1F1B16">## 级主题章节</text>
+  <rect x="488" y="72" width="216" height="190" rx="10" fill="#FFFFFF" stroke="#B23A2E" stroke-width="1.5"/>
+  <text x="596" y="112" text-anchor="middle" font-size="16" fill="#1F1B16">事故场景</text>
+  <text x="596" y="178" text-anchor="middle" font-size="52" font-weight="700" fill="#B23A2E">89</text>
+  <text x="596" y="216" text-anchor="middle" font-size="13" fill="#1F1B16">### 级具体修复条目</text>
+  <rect x="720" y="72" width="216" height="190" rx="10" fill="#FFFFFF" stroke="#B23A2E" stroke-width="1.5"/>
+  <text x="828" y="112" text-anchor="middle" font-size="16" fill="#1F1B16">开源许可</text>
+  <text x="828" y="172" text-anchor="middle" font-size="26" font-weight="700" fill="#B23A2E">CC BY-SA</text>
+  <text x="828" y="204" text-anchor="middle" font-size="16" fill="#B23A2E">4.0</text>
+  <text x="828" y="232" text-anchor="middle" font-size="13" fill="#1F1B16">署名-相同方式共享</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="220" viewBox="0 0 960 220" font-family="Noto Sans CJK SC, sans-serif">
+  <rect width="960" height="220" fill="#FAF6EF"/>
+  <text x="480" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#1F1B16">使用方式：三步搞定</text>
+  <rect x="60" y="78" width="240" height="100" rx="10" fill="#FFFFFF" stroke="#B23A2E" stroke-width="1.5"/>
+  <circle cx="100" cy="78" r="20" fill="#B23A2E"/>
+  <text x="100" y="85" text-anchor="middle" font-size="20" font-weight="700" fill="#FAF6EF">1</text>
+  <text x="180" y="130" text-anchor="middle" font-size="22" font-weight="700" fill="#1F1B16">遇到事故</text>
+  <text x="180" y="160" text-anchor="middle" font-size="14" fill="#1F1B16">报错 / 改错 / 推错分支</text>
+  <path d="M 312 128 L 348 128" stroke="#B23A2E" stroke-width="3" fill="none"/>
+  <path d="M 348 128 L 336 120 L 336 136 Z" fill="#B23A2E"/>
+  <rect x="360" y="78" width="240" height="100" rx="10" fill="#FFFFFF" stroke="#B23A2E" stroke-width="1.5"/>
+  <circle cx="400" cy="78" r="20" fill="#B23A2E"/>
+  <text x="400" y="85" text-anchor="middle" font-size="20" font-weight="700" fill="#FAF6EF">2</text>
+  <text x="480" y="130" text-anchor="middle" font-size="22" font-weight="700" fill="#1F1B16">查阅场景</text>
+  <text x="480" y="160" text-anchor="middle" font-size="14" fill="#1F1B16">按章节 / 关键词检索 89 条</text>
+  <path d="M 612 128 L 648 128" stroke="#B23A2E" stroke-width="3" fill="none"/>
+  <path d="M 648 128 L 636 120 L 636 136 Z" fill="#B23A2E"/>
+  <rect x="660" y="78" width="240" height="100" rx="10" fill="#FFFFFF" stroke="#B23A2E" stroke-width="1.5"/>
+  <circle cx="700" cy="78" r="20" fill="#B23A2E"/>
+  <text x="700" y="85" text-anchor="middle" font-size="20" font-weight="700" fill="#FAF6EF">3</text>
+  <text x="780" y="130" text-anchor="middle" font-size="22" font-weight="700" fill="#1F1B16">按步修复</text>
+  <text x="780" y="160" text-anchor="middle" font-size="14" fill="#1F1B16">照命令逐条执行即可</text>
+</svg>

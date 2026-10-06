@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260" font-family="Noto Sans CJK SC, sans-serif">
+  <rect width="960" height="260" fill="#FAF6EF"/>
+  <rect x="0" y="0" width="960" height="8" fill="#B23A2E"/>
+  <rect x="40" y="40" width="880" height="1" fill="#E4D9C8"/>
+  <text x="480" y="108" text-anchor="middle" font-size="46" font-weight="700" fill="#1F1B16">Git 事故处理手册 · 中文版</text>
+  <text x="480" y="150" text-anchor="middle" font-size="20" fill="#1F1B16">Git 出问题了怎么办？89 个事故场景的分步修复导读</text>
+  <g font-size="16" fill="#B23A2E">
+    <rect x="232" y="188" width="120" height="32" rx="16" fill="none" stroke="#B23A2E" stroke-width="1.5"/>
+    <text x="292" y="209" text-anchor="middle">★ 42,000+</text>
+    <rect x="366" y="188" width="92" height="32" rx="16" fill="none" stroke="#B23A2E" stroke-width="1.5"/>
+    <text x="412" y="209" text-anchor="middle">19 章节</text>
+    <rect x="474" y="188" width="92" height="32" rx="16" fill="none" stroke="#B23A2E" stroke-width="1.5"/>
+    <text x="520" y="209" text-anchor="middle">89 场景</text>
+    <rect x="582" y="188" width="118" height="32" rx="16" fill="none" stroke="#B23A2E" stroke-width="1.5"/>
+    <text x="641" y="209" text-anchor="middle">CC BY-SA</text>
+  </g>
+</svg>
